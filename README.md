@@ -1,1 +1,1 @@
-2D-Graphics-Library
+2D Graphics Library which can take screenshots of Windows (on ms windows) and convert them to a GFX32 layer in memory for image searches, like in the old click bot's for runescape classic, it's also a fairly decent graphics library for older 32 bit hardware making use of bitshift divions hacks and the likes.
